@@ -1,0 +1,150 @@
+Breed_name,Age,Gender ,Pregnant,Vaccination,Fever,Reduced_Milk_Production,Weight_Loss,Diarrhoea,Excessive_Salivation,Papules_teats_udder,Increased respiratory rate,Swelling of the face and tongue,Dehydration,Lameness,Vulvar_Labia_Swelling,blister_lesions_mouth,Scabs,dry cough,Reddened_Vaginal_Mucosa,Mucosal lesions,"large,_firm nodules",Skin_Warts,swollen lymph glands,Disease
+Punganur,2,Female,1,3,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Nili-Ravi,7,Female,2,14,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Krishna Valley,3,Female,1,6,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Jaffarabadi,4,Female,1,7,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Punganur,1,Male,0,2,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Murrah,12,Female,5,18,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Ongole,12,Female,3,19,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Surti,2,Male,0,2,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Krishna Valley,6,Male,0,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Jaffarabadi,3,Female,2,6,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Ongole,8,Male,0,14,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Surti,3,Male,0,5,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bovine viral diarrhea
+Punganur,5,Male,0,8,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Murrah,10,Female,4,14,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Ongole,9,Female,2,14,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Jaffarabadi,11,Female,2,16,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Krishna Valley,11,Male,0,17,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Surti,7,Male,0,13,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Krishna Valley,11,Female,5,20,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bovine viral diarrhea
+Jaffarabadi,4,Female,2,7,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Punganur,8,Female,1,16,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Nili-Ravi,2,Female,1,4,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Punganur,10,Female,2,18,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Jaffarabadi,7,Male,0,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Krishna Valley,9,Male,0,14,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Surti,4,Female,1,8,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Ongole,11,Male,0,20,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Jaffarabadi,9,Female,3,18,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Krishna Valley,12,Male,0,18,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Nili-Ravi,7,Male,0,13,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Ongole,9,Male,0,15,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bovine viral diarrhea
+Surti,4,Male,0,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Ongole,4,Male,0,8,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Nili-Ravi,12,Male,0,18,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Krishna Valley,4,Male,0,8,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Surti,4,Male,0,6,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Punganur,2,Female,1,4,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Surti,7,Male,0,14,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Krishna Valley,4,Female,2,7,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Surti,2,Male,0,4,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Punganur,1,Male,0,2,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Nili-Ravi,7,Male,0,11,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bovine viral diarrhea
+Ongole,1,Male,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Nili-Ravi,12,Female,3,20,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Ongole,6,Female,3,8,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Murrah,4,Male,0,8,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Punganur,8,Male,0,16,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Nili-Ravi,9,Male,0,18,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Ongole,12,Male,0,20,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Surti,5,Male,0,7,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Krishna Valley,11,Female,5,18,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Surti,9,Male,0,16,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Krishna Valley,2,Male,0,4,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Nili-Ravi,3,Male,0,6,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Punganur,6,Male,0,12,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Nili-Ravi,12,Female,5,19,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Ongole,12,Female,4,24,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Jaffarabadi,7,Female,3,14,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Krishna Valley,3,Female,1,5,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Jaffarabadi,2,Female,1,3,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bovine viral diarrhea
+Punganur,11,Male,0,16,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Nili-Ravi,12,Female,2,15,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Ongole,11,Female,4,20,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Murrah,6,Female,2,12,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Ongole,9,Male,0,16,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Murrah,10,Male,0,20,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Ongole,3,Male,0,6,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Nili-Ravi,11,Male,0,20,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Ongole,4,Male,0,8,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Surti,1,Male,0,2,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Ongole,12,Female,4,19,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Nili-Ravi,2,Female,1,4,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Ongole,6,Female,3,10,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Nili-Ravi,2,Female,1,4,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Ongole,8,Female,2,14,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Murrah,6,Male,0,12,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Ongole,5,Male,0,9,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bovine viral diarrhea
+Surti,2,Male,0,4,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Krishna Valley,9,Male,0,18,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Nili-Ravi,9,Male,0,17,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Ongole,6,Male,0,7,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Nili-Ravi,4,Female,2,7,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Punganur,3,Female,1,6,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Surti,7,Male,0,13,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Krishna Valley,11,Male,0,18,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Surti,12,Female,5,24,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Ongole,12,Male,0,24,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Jaffarabadi,11,Female,5,22,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Punganur,10,Male,0,18,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Surti,12,Male,0,20,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Punganur,12,Male,0,20,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bovine viral diarrhea
+Jaffarabadi,2,Female,1,4,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Punganur,1,Male,0,2,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Surti,2,Female,1,4,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Krishna Valley,11,Female,3,20,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Murrah,7,Female,2,14,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Punganur,8,Male,0,15,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bovine viral diarrhea
+Murrah,4,Male,0,8,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Ongole,10,Female,3,16,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Nili-Ravi,3,Male,0,4,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Krishna Valley,6,Male,0,11,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Nili-Ravi,4,Female,2,6,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bovine viral diarrhea
+Ongole,2,Male,0,4,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Surti,4,Female,2,8,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Ongole,12,Female,5,18,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Murrah,1,Male,0,2,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Krishna Valley,6,Male,0,12,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Jaffarabadi,6,Female,2,12,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bovine viral diarrhea
+Punganur,7,Male,0,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Surti,5,Female,1,9,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Ongole,2,Male,0,4,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Murrah,2,Male,0,4,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Ongole,10,Female,4,15,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Jaffarabadi,11,Male,0,18,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Ongole,12,Male,0,19,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,parainfluenzaVirus
+Murrah,1,Female,0,2,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Krishna Valley,6,Female,1,12,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Nili-Ravi,12,Female,3,18,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Punganur,12,Female,6,20,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Jaffarabadi,7,Male,0,13,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Punganur,3,Male,0,6,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Surti,9,Male,0,16,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Ongole,10,Female,5,15,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Nili-Ravi,3,Female,1,6,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Punganur,3,Female,1,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Murrah,9,Male,0,18,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bovine viral diarrhea
+Ongole,5,Male,0,10,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Jaffarabadi,2,Male,0,4,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Ongole,12,Male,0,19,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Surti,8,Female,3,15,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Ongole,2,Male,0,4,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Surti,7,Female,3,12,1,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Bovine viral diarrhea
+Krishna Valley,7,Male,0,13,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Surti,2,Male,0,4,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Ongole,5,Female,1,7,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Nili-Ravi,6,Male,0,12,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Punganur,11,Male,0,20,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Jaffarabadi,12,Male,0,20,1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,PoxVirus
+Punganur,4,Female,2,8,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Murrah,3,Female,1,6,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Ongole,1,Female,1,2,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Surti,3,Female,1,6,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,Lumpy_Skin
+Ongole,3,Male,0,6,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Surti,7,Female,3,14,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
+Krishna Valley,9,Female,2,17,1,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,HerpesVirus
+Surti,10,Male,0,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Punganur,8,Female,4,13,1,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,VesicularVirus
+Surti,8,Male,0,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,papillomavirus 
+Ongole,8,Female,1,15,1,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,BlueTongueVirus
